@@ -1,0 +1,149 @@
+h1{
+    margin-bottom: 8px;
+   
+}
+
+.head{
+    text-align: center;
+}
+
+.card1{
+    width: 250px;
+    height: 380px;
+    border: 1px solid black;
+    margin-right: 40px;
+    box-shadow: 10px 10px 5px rgb(202, 233, 244);
+    margin-top: 20px;
+}
+
+.card2{
+    width: 250px;
+    height: 380px;
+    border: 1px solid black;
+    margin-right: 40px;
+    box-shadow: 10px 10px 5px rgb(202, 233, 244);
+    background-color: rgba(11, 11, 52, 0.71);
+    color: white;
+}
+
+.card3{
+    width: 250px;
+    height: 380px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 5px rgb(202, 233, 244);
+    margin-top: 30px;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;   
+    
+}
+
+.c1{
+    text-align: center;
+}
+
+.a1{
+    margin-bottom: 18px;
+}
+
+.circle1a{
+    width: 8%;
+    height: 8%;
+    border-radius: 50%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.circle1{
+    width: 8%;
+    height: 8%;
+    border-radius: 50%;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.checkmark1{
+    font-size: 16px;
+    
+}
+
+.circle2a{
+    width: 8%;
+    height: 8%;
+    border-radius: 50%;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.circle2{
+    width: 8%;
+    height: 8%;
+    border-radius: 50%;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.checkmark2{
+    font-size: 16px;
+}
+
+
+.circle3a{
+    width: 8%;
+    height: 8%;
+    border-radius: 50%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.circle3{
+    width: 8%;
+    height: 8%;
+    border-radius: 50%;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.checkmark3{
+    font-size: 16px;
+}
+
+.second{
+    display: flex;  
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.p1{
+    margin-left: 15px;
+}
+
+.btn{
+    margin-top: 20%;
+    text-align: center;
+   
+}
+
+.b{
+    display: flex;
+    justify-content: end;
+    margin-top: 10px;
+    margin-right: 5px;
+    border-radius: 5px;
+   
+}
